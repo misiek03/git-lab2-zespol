@@ -1,2 +1,3 @@
 Autor: Tomasz Wojtak
+Kurs: Technologie DevOps 2025
 Kurs: DevOps
