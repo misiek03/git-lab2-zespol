@@ -1,1 +1,2 @@
 Autor: Tomasz Wojtak
+Kurs: DevOps
